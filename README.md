@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Manish3Air/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Manish3Air/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Manish3Air/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -121,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Manish3Air/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Manish3Air/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Manish3Air/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manish3Air/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Manish3Air/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Manish3Air/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Manish3Air/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish3Air/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manish3Air/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manish3Air/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Manish3Air/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
