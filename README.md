@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Manish3Air/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Manish3Air/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Manish3Air/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manish3Air/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Manish3Air/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Manish3Air/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Manish3Air/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Manish3Air/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Manish3Air/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Manish3Air/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Manish3Air/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Manish3Air/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Manish3Air/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manish3Air/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -186,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manish3Air/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manish3Air/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Manish3Air/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
