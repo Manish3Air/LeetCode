@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manish3Air/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Manish3Air/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manish3Air/LeetCode/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/Manish3Air/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Manish3Air/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Manish3Air/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manish3Air/LeetCode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Manish3Air/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
