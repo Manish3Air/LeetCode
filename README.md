@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Manish3Air/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Manish3Air/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Manish3Air/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Manish3Air/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Manish3Air/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Manish3Air/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Manish3Air/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Manish3Air/LeetCode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Manish3Air/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Manish3Air/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Manish3Air/LeetCode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
