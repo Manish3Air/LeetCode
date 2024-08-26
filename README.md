@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manish3Air/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/Manish3Air/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0455-assign-cookies](https://github.com/Manish3Air/LeetCode/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Manish3Air/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Manish3Air/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Manish3Air/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Manish3Air/LeetCode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manish3Air/LeetCode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Manish3Air/LeetCode/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manish3Air/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manish3Air/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Manish3Air/LeetCode/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
 | ------- |
