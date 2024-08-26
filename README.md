@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Manish3Air/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manish3Air/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Manish3Air/LeetCode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Manish3Air/LeetCode/tree/master/0063-unique-paths-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Manish3Air/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manish3Air/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Manish3Air/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Manish3Air/LeetCode/tree/master/0063-unique-paths-ii) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Manish3Air/LeetCode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Manish3Air/LeetCode/tree/master/0063-unique-paths-ii) |
 ## Combinatorics
 |  |
 | ------- |
