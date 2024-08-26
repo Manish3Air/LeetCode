@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manish3Air/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Manish3Air/LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Manish3Air/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Manish3Air/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Manish3Air/LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Manish3Air/LeetCode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
