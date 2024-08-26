@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manish3Air/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Manish3Air/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Manish3Air/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Manish3Air/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manish3Air/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -94,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Manish3Air/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Manish3Air/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manish3Air/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manish3Air/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manish3Air/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Manish3Air/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manish3Air/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
