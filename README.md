@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Manish3Air/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Manish3Air/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manish3Air/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Manish3Air/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Manish3Air/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manish3Air/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Manish3Air/LeetCode/tree/master/0136-single-number) |
 ## Tree
 |  |
 | ------- |
