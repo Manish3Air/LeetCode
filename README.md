@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Manish3Air/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/Manish3Air/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/Manish3Air/LeetCode/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/Manish3Air/LeetCode/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Manish3Air/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manish3Air/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Manish3Air/LeetCode/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Manish3Air/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Manish3Air/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Manish3Air/LeetCode/tree/master/0493-reverse-pairs) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Manish3Air/LeetCode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -250,4 +254,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Manish3Air/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Manish3Air/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Manish3Air/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Manish3Air/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
