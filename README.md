@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Manish3Air/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Manish3Air/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manish3Air/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Manish3Air/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manish3Air/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manish3Air/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Manish3Air/LeetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Manish3Air/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Manish3Air/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Manish3Air/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manish3Air/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Manish3Air/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Combinatorics
 |  |
 | ------- |
