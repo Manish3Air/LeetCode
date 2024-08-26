@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Manish3Air/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manish3Air/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Manish3Air/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Manish3Air/LeetCode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Manish3Air/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manish3Air/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Manish3Air/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Manish3Air/LeetCode/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manish3Air/LeetCode/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Manish3Air/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
