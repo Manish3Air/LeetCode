@@ -115,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manish3Air/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manish3Air/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Manish3Air/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manish3Air/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Manish3Air/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Manish3Air/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
 | ------- |
