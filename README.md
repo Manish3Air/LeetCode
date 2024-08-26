@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Manish3Air/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Manish3Air/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Manish3Air/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Manish3Air/LeetCode/tree/master/0062-unique-paths) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manish3Air/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manish3Air/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Manish3Air/LeetCode/tree/master/0062-unique-paths) |
 ## Stack
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Manish3Air/LeetCode/tree/master/0048-rotate-image) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Manish3Air/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
