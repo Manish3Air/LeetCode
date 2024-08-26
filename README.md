@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manish3Air/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Manish3Air/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manish3Air/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Manish3Air/LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Manish3Air/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manish3Air/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Manish3Air/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Manish3Air/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Manish3Air/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manish3Air/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Manish3Air/LeetCode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Manish3Air/LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
