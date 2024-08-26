@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manish3Air/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manish3Air/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Manish3Air/LeetCode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/Manish3Air/LeetCode/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manish3Air/LeetCode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/Manish3Air/LeetCode/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manish3Air/LeetCode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Manish3Air/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
