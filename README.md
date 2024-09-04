@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Manish3Air/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Manish3Air/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manish3Air/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Manish3Air/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manish3Air/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Manish3Air/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Manish3Air/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manish3Air/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manish3Air/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Manish3Air/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Manish3Air/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manish3Air/LeetCode/tree/master/0229-majority-element-ii) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Manish3Air/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
 | ------- |
