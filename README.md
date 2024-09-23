@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Manish3Air/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Manish3Air/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manish3Air/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manish3Air/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Manish3Air/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manish3Air/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Manish3Air/LeetCode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manish3Air/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
