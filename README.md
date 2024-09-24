@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manish3Air/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Manish3Air/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
+| [2050-count-good-numbers](https://github.com/Manish3Air/LeetCode/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Manish3Air/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Manish3Air/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Manish3Air/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Manish3Air/LeetCode/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
