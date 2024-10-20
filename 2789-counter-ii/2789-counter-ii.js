@@ -5,14 +5,13 @@
 var createCounter = function(init) {
     let count  = init;
     return {
-        increment : function(){
+        increment : ()=>{
             return count  = count +1;
-            
         },
-        decrement : function(){
+        decrement : ()=>{
             return count = count - 1;
         },
-        reset : function(){
+        reset : ()=>{
             return (count = init); 
         }
     }
