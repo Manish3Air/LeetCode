@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manish3Air/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manish3Air/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manish3Air/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/Manish3Air/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Manish3Air/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Manish3Air/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manish3Air/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manish3Air/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Manish3Air/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/Manish3Air/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Manish3Air/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Manish3Air/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manish3Air/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manish3Air/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manish3Air/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/Manish3Air/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Manish3Air/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Manish3Air/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manish3Air/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Manish3Air/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0966-binary-subarrays-with-sum](https://github.com/Manish3Air/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Manish3Air/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Indexed Tree
 |  |
