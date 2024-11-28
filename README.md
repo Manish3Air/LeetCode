@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Manish3Air/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manish3Air/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Manish3Air/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Manish3Air/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Manish3Air/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Manish3Air/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Manish3Air/LeetCode/tree/master/0198-house-robber) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Manish3Air/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manish3Air/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manish3Air/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Manish3Air/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Manish3Air/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manish3Air/LeetCode/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/Manish3Air/LeetCode/tree/master/0377-combination-sum-iv) |
