@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Manish3Air/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Manish3Air/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Manish3Air/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Manish3Air/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manish3Air/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Manish3Air/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Manish3Air/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Manish3Air/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Manish3Air/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Manish3Air/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Manish3Air/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manish3Air/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Manish3Air/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Combinatorics
 |  |
 | ------- |
