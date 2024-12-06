@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Manish3Air/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish3Air/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Manish3Air/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/Manish3Air/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Manish3Air/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Manish3Air/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Manish3Air/LeetCode/tree/master/0268-missing-number) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Manish3Air/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Manish3Air/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manish3Air/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Manish3Air/LeetCode/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/Manish3Air/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Manish3Air/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Manish3Air/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Manish3Air/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Manish3Air/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manish3Air/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/Manish3Air/LeetCode/tree/master/0221-maximal-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manish3Air/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Combinatorics
 |  |
