@@ -1,34 +1,30 @@
 class Solution {
 public:
-    bool check(string& s,int i,int j,vector<vector<int>>& dp){
-        if(i >= j) return true;
-
-        if(dp[i][j] != -1) return dp[i][j];
-
-        if(s[i] == s[j]) return dp[i][j] = check(s,i+1,j-1,dp);
-        
-        return dp[i][j] = false;
-    }
     string longestPalindrome(string s) {
-        string res = "";
         int n = s.size();
-        if(n == 0) return res;
+        if (n <= 1) return s;
+        string max_substr = s.substr(0,1);
 
-        vector<vector<int>> dp(n,vector<int>(n,-1));
-
-        int maxi = 0;
-
-        for(int i = 0; i < n; i++){
-            for(int j = i; j < n; j++){
-                if(check(s,i,j,dp)){
-                    int len = j-i+1;
-                    if(len > maxi){
-                        res = s.substr(i,len);
-                        maxi = len;
-                    }
-                }
+        auto expandAroundCenter = [&](int left, int right) {
+            while (left >= 0 && right < n && s[left] == s[right]) {
+                
+                left--;
+                right++;
             }
+            return s.substr(left + 1,right - left - 1);
+        };
+
+        for (int i = 0; i < n; i++) {
+            string odd = expandAroundCenter(i, i);     
+            string even = expandAroundCenter(i, i + 1); 
+                if (odd.size() > max_substr.size()) {
+                    max_substr = odd;
+                }
+                if (even.size() > max_substr.size()) {
+                    max_substr = even;
+                }
         }
-        return res;
+
+        return max_substr;
     }
 };
