@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Manish3Air/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Manish3Air/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Manish3Air/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Manish3Air/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Manish3Air/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Manish3Air/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Manish3Air/LeetCode/tree/master/0118-pascals-triangle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manish3Air/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Manish3Air/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Manish3Air/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Manish3Air/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Manish3Air/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Manish3Air/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manish3Air/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Manish3Air/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manish3Air/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Manish3Air/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Manish3Air/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Manish3Air/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Manish3Air/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Manish3Air/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Manish3Air/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Manish3Air/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manish3Air/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Manish3Air/LeetCode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Manish3Air/LeetCode/tree/master/0221-maximal-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manish3Air/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Combinatorics
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Manish3Air/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish3Air/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manish3Air/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manish3Air/LeetCode/tree/master/0110-balanced-binary-tree) |
