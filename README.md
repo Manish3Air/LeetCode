@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Manish3Air/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manish3Air/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Manish3Air/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Manish3Air/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Manish3Air/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Manish3Air/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Manish3Air/LeetCode/tree/master/0189-rotate-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Manish3Air/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Manish3Air/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Manish3Air/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Manish3Air/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Manish3Air/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manish3Air/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Manish3Air/LeetCode/tree/master/0169-majority-element) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Manish3Air/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Manish3Air/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Manish3Air/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Manish3Air/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manish3Air/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Manish3Air/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/Manish3Air/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manish3Air/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Manish3Air/LeetCode/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manish3Air/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manish3Air/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Manish3Air/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Manish3Air/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Manish3Air/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Manish3Air/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manish3Air/LeetCode/tree/master/0213-house-robber-ii) |
@@ -294,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manish3Air/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Manish3Air/LeetCode/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
